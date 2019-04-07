@@ -2,6 +2,7 @@
 #include<ctype.h>
 #include<conio.h>
 #include<stdio.h>
+#include<iostream.h>
 #include<process.h>
 #include<fstream.h>
 #include<dos.h>
